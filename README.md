@@ -6,7 +6,7 @@ My solutions to the Advent of Code 2020
 - [ ] V (Maybe)
 - [ ] Rust (Maybe)
 - [ ] Nim (Maybe)
-- [ ] Ruby
+- [x] Ruby
 - [ ] Python
 - [ ] Crystal
 - [ ] JavaScript
