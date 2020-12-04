@@ -9,5 +9,5 @@ My solutions to the Advent of Code 2020
 - [x] Ruby
 - [ ] Python
 - [ ] Crystal
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] TypeScript
